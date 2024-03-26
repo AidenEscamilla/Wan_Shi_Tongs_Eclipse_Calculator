@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # Rabbit hole code (wrong calculations)
 eclipse_separation_calc.py
+
+# virtual environment
+.venv
